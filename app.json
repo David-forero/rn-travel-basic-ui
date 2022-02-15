@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "travel_basic_ui",
-    "slug": "travel_basic_ui",
+    "name": "Basic Travel  Ui",
+    "slug": "basic-travel-ui",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,6 +28,7 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": ""
+    "description": "",
+    "githubUrl": "https://github.com/David-forero/rn-travel-basic-ui"
   }
 }
